@@ -2,7 +2,7 @@
 
 Decentralizing the Singularity with Community Technology
 
-<img align="right" width="250" src="avatar.png">
+<img align="right" width="250" src="profile.jpg">
 
 ## Bio
 
