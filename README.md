@@ -1,3 +1,37 @@
+# Name (@github_id)
+
+optional tag-line
+
+<img align="right" width="250" src="avatar.png">
+
+## Bio
+
+optional bio
+
+## Identities
+* [github](https://github.com/github_id)
+* [keybase](https://keybase.io/keybase_id)
+* [linkedin](https://www.linkedin.com/in/linkedin_id)
+
+## Roles
+* [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
+  * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
+  
+## Achievements
+TBD
+
+# Getting Started
+
+To join the [Cryptonomicon](https://github.com/cryptotechguru/Cryptonomicon) game:
+1. Fork this repo to your own github account
+1. Rename the repo from "player-space" to "[github-id]-space", substituting your own github ID
+1. Customize the sections above with your own information
+1. Remove this Getting Started section
+1. Publish the repo with github pages
+1. Fork [Cryptonomicon](https://github.com/cryptotechguru/Cryptonomicon) to your own account
+1. Add your own player-space to the [Player roster](https://github.com/cryptotechguru/Cryptonomicon/Roles/Player)
+1. Submit a PR 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cryptotechguru/player-space/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -27,10 +61,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cryptotechguru/player-space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
