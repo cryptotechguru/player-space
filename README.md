@@ -1,19 +1,21 @@
-(To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
+# Christian Saucier (@flaxscrip)
 
-# Name (@github_id)
-
-optional tag-line
+Decentralizing the Singularity with Community Technology
 
 <img align="right" width="250" src="avatar.png">
 
 ## Bio
 
-optional bio
+I design and implement community technologies using P2P consensus protocols. Blockchains enable new disruptive ways to bring communities together.
+
+Over the last 8 years, I've been involved in dozens of P2P projects across many industries including : finance, supply chain management, project governance, real estate, IOT, food, agriculture, and healthcare.
+
+I share John Perry Barlow's vision for our nascent noosphere: [Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).
 
 ## Identities
-* [github](https://github.com/github_id)
-* [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
+* [github](https://github.com/flaxscrip)
+* [keybase](https://keybase.io/csaucier)
+* [linkedin](https://www.linkedin.com/in/csaucier)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
