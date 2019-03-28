@@ -4,9 +4,8 @@
 To join the [Cryptonomicon](https://github.com/cryptotechguru/Cryptonomicon) game:
 1. Fork this repo to your own github account
 1. Rename the repo from "player-space" to "[github-id]-space", substituting your own github ID
-1. Customize the sections above with your own information
-1. Remove this Getting Started section
-1. Publish the repo with github pages
+1. Customize [README.md](README.md) with your own information
+1. Publish the repo with github pages (in repo Settings)
 1. Fork [Cryptonomicon](https://github.com/cryptotechguru/Cryptonomicon) to your own account
 1. Add your own player-space to the [Player roster](https://github.com/cryptotechguru/Cryptonomicon/Roles/Player)
 1. Submit a PR 
