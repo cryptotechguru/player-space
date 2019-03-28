@@ -1,4 +1,4 @@
-(To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started).)
+(To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
 
 # Name (@github_id)
 
