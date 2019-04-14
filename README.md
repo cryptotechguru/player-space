@@ -1,9 +1,12 @@
 # Christian Saucier (@flaxscrip)
+Decentralizing the Singularity with Community Technology
+
+---
 
 <!-- testing hidden comments -->
 [//]: # (This syntax works like a comment, and won't appear in any output.)
 
-Decentralizing the Singularity with Community Technology
+<img align="center" width="500" src="unity4j.jpg">
 
 <img align="right" width="250" src="profile.jpg">
 
