@@ -7,7 +7,7 @@
 ![fork button](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 1. Rename the repo using your own github ID. (e.g. if your github name is `flounder` then name it `flounder-space`)  
 ![rename](https://i.imgur.com/SIffvrr.png)
-1. Edit the README.md changing the name to your own. (Select the README.md file on the Code tab then hit the Edit icon.)  
+1. Edit the README.md changing the player name in the file to your own. (Select the README.md file on the Code tab then hit the Edit icon.)  
 ![edit](https://i.imgur.com/a5W2fIi.png)
 When you are done it is OK to commit directly to the master branch:  
 ![commit](https://i.imgur.com/OZCJrTc.png)
